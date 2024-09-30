@@ -1,2 +1,2 @@
 # INU-trading
-Faculty Final Project
+Diploma Final Project
